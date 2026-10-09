@@ -1,0 +1,15 @@
+GITHUB CHECKLIST
+================
+
+[ ] Create repository: loan-approval-prediction
+[ ] Add loan_approval_prediction.ipynb
+[ ] Add loan_approval_prediction.py
+[ ] Add requirements.txt
+[ ] Add README.md
+[ ] Add REPORT.docx
+[ ] Add loan_prediction.csv only if redistribution is permitted
+[ ] Run notebook
+[ ] Save model_comparison.png
+[ ] Take screenshot of executed notebook
+[ ] Replace preview screenshot in REPORT.docx
+[ ] Commit and push to GitHub

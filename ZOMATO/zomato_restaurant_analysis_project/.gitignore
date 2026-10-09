@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+venv/
+.env
+.DS_Store
+# Add dataset only if you are allowed to redistribute it
+# zomato.csv

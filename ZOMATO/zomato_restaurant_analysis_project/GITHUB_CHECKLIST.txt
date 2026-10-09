@@ -1,0 +1,10 @@
+GITHUB CHECKLIST
+================
+[ ] Create repository: zomato-restaurant-analysis
+[ ] Add zomato_restaurant_analysis.ipynb
+[ ] Add zomato_restaurant_analysis.py
+[ ] Add README.md, requirements.txt, REPORT.docx
+[ ] Add zomato.csv only if license permits redistribution
+[ ] Run notebook and save actual metrics/charts
+[ ] Take screenshot of executed notebook
+[ ] Commit and push to GitHub
