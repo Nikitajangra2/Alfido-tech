@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+
+# Local data and generated database (review before committing)
+instagram details/*.csv
+insta_lite.db
+*.sqlite
+*.sqlite3
+
+# OS/editor
+.DS_Store
+.vscode/
